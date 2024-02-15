@@ -18,7 +18,7 @@ function TaskManager() {
   
       } else {
   
-        console.log(`ikinci branch gonderim degisikligi'`);
+        console.log(`muz'`);
   
       }
   
@@ -26,11 +26,11 @@ function TaskManager() {
    
     this.viewTasks = function() {
   
-      console.log(`ikinci branch gonderim degisikligi'`);
+      console.log(`muz'`);
 
       this.tasks.forEach(task => {
   
-        console.log(`ikinci branch gonderim degisikligi'`);
+        console.log(`muz'`);
   
       });
   
