@@ -18,8 +18,8 @@ function TaskManager() {
   
       } else {
   
-        console.log(`limon'`);
-        console.log(`limon'`);
+        console.log(`cacik'`);
+        console.log(`portakal'`);
 
   
       }
