@@ -18,7 +18,7 @@ function TaskManager() {
   
       } else {
   
-        console.log("Task not found!");
+        console.log(`ilk gonderim degisikligi'`);
   
       }
   
@@ -26,11 +26,11 @@ function TaskManager() {
    
     this.viewTasks = function() {
   
-      console.log("Tasks:");
-  
+      console.log(`ilk gonderim degisikligi'`);
+
       this.tasks.forEach(task => {
   
-        console.log(`${task.name} - ${task.completed ? 'Completed' : 'Pending'}`);
+        console.log(`ilk gonderim degisikligi'`);
   
       });
   
