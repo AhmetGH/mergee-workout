@@ -18,7 +18,10 @@ function TaskManager() {
   
       } else {
   
-        console.log(`çilek'`);
+        console.log(`elma'`);
+        console.log(`elma'`);
+        console.log(`elma'`);
+
   
       }
   
@@ -26,11 +29,11 @@ function TaskManager() {
    
     this.viewTasks = function() {
   
-      console.log(`çilek'`);
+      console.log(`elma'`);
 
       this.tasks.forEach(task => {
   
-        console.log(`çilek'`);
+        console.log(`elma'`);
   
       });
   
