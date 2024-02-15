@@ -18,7 +18,7 @@ function TaskManager() {
   
       } else {
   
-        console.log(`muz'`);
+        console.log(`çilek'`);
   
       }
   
@@ -26,11 +26,11 @@ function TaskManager() {
    
     this.viewTasks = function() {
   
-      console.log(`muz'`);
+      console.log(`çilek'`);
 
       this.tasks.forEach(task => {
   
-        console.log(`muz'`);
+        console.log(`çilek'`);
   
       });
   
