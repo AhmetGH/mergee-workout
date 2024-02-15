@@ -18,7 +18,7 @@ function TaskManager() {
   
       } else {
   
-        console.log(`portakal'`);
+        console.log(`cacik'`);
         console.log(`portakal'`);
 
   
