@@ -18,7 +18,9 @@ function TaskManager() {
   
       } else {
   
-        console.log(`çilek'`);
+        console.log(`portakal'`);
+        console.log(`portakal'`);
+
   
       }
   
@@ -26,7 +28,7 @@ function TaskManager() {
    
     this.viewTasks = function() {
   
-      console.log(`çilek'`);
+      console.log(`portakal'`);
 
       this.tasks.forEach(task => {
   
